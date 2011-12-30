@@ -4,7 +4,7 @@
   <title><![CDATA[Furious Sunrise]]></title>
   <link href="http://schneebles.github.com/atom.xml" rel="self"/>
   <link href="http://schneebles.github.com/"/>
-  <updated>2011-12-29T23:24:57-05:00</updated>
+  <updated>2011-12-29T23:27:12-05:00</updated>
   <id>http://schneebles.github.com/</id>
   <author>
     <name><![CDATA[Schneebles]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[aww yeah]]></title>
+    <link href="http://schneebles.github.com/blog/2011/12/29/aww-yeah/"/>
+    <updated>2011-12-29T23:27:00-05:00</updated>
+    <id>http://schneebles.github.com/blog/2011/12/29/aww-yeah</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
