@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Furious Sunrise]]></title>
-  <link href="http://furioussunrise.com/atom.xml" rel="self"/>
-  <link href="http://furioussunrise.com/"/>
-  <updated>2011-12-29T17:29:02-05:00</updated>
-  <id>http://furioussunrise.com/</id>
+  <link href="http://schneebles.github.com/atom.xml" rel="self"/>
+  <link href="http://schneebles.github.com/"/>
+  <updated>2011-12-29T23:13:33-05:00</updated>
+  <id>http://schneebles.github.com/</id>
   <author>
     <name><![CDATA[Schneebles]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://furioussunrise.com/blog/2011/12/29/hello-world/"/>
+    <link href="http://schneebles.github.com/blog/2011/12/29/hello-world/"/>
     <updated>2011-12-29T17:19:00-05:00</updated>
-    <id>http://furioussunrise.com/blog/2011/12/29/hello-world</id>
+    <id>http://schneebles.github.com/blog/2011/12/29/hello-world</id>
     <content type="html"><![CDATA[<p>Hello world!  Welcome to Furious Sunrise!</p>
 
 <h2>So, you may be wondering, what the hell is Furious Sunrise?</h2>
