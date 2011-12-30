@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Furious Sunrise]]></title>
+  <link href="http://schneebles.github.com/atom.xml" rel="self"/>
+  <link href="http://schneebles.github.com/"/>
+  <updated>2011-12-29T23:13:33-05:00</updated>
+  <id>http://schneebles.github.com/</id>
+  <author>
+    <name><![CDATA[Schneebles]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://schneebles.github.com/blog/2011/12/29/hello-world/"/>
+    <updated>2011-12-29T17:19:00-05:00</updated>
+    <id>http://schneebles.github.com/blog/2011/12/29/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello world!  Welcome to Furious Sunrise!</p>
+
+<h2>So, you may be wondering, what the hell is Furious Sunrise?</h2>
+
+<p>It&#8217;s a blog where I rant about things in my life that piss me off.</p>
+
+<p>This blog will open your eyes to how shitty everything is.</p>
+]]></content>
+  </entry>
+  
+</feed>
